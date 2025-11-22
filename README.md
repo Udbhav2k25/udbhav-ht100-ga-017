@@ -1,1 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/A9QViZSS)
+# The Agentic Marketer
+
+A full-stack app for autonomous marketing campaigns.
+
+## Setup
+1. Clone repo.
+2. Set up DB with init.sql.
+3. Install dependencies in frontend, backend, real-time.
+4. Add .env files with API keys.
+5. Run backend, real-time, then frontend.
+
+## Features
+- User auth, campaign creation, analytics, etc.
